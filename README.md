@@ -16,6 +16,7 @@ Process Employed -
 3. Bining data for finding purchasing analysis by age
 4. Using loc,iloc functions to select a subset of the dataframe for analysis
 5. Using Groupby function
+6. Formatting the data in dataframe
 
 
 
